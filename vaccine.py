@@ -29,7 +29,7 @@ def findV():
 
                 for session in sessions:
                     if session['min_age_limit'] == 18 and session['available_capacity_dose1'] > 0:
-                        print("AGNI AGNI AGNI AGNI \n----------------------")
+                        print("Soumya Soumya Soumya \n----------------------")
                         print("CENTER AVALIABLE IS " + center['name'])
                         print("Address = " + center['address'] +", " + str(center['pincode']))
                         print("Vaccine is " + session['vaccine'])
